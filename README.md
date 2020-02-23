@@ -1,1 +1,1 @@
-Un dashboard qui sert a envoyer des images
+Simple dashboard that save the images sent
